@@ -1,0 +1,3 @@
+[submodule "vendor/dream-rsi"]
+	path = vendor/dream-rsi
+	url = https://github.com/google-research/dream-rsi.git

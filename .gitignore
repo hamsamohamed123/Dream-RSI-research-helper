@@ -23,3 +23,18 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# Local environments, credentials, generated experiments
+.venv/
+.env
+.env.*
+!.env.example
+workspace/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+# Download separately to retain upstream task licensing boundaries
+vendor/dream-rsi/tasks/*/evaluator.py
+vendor/dream-rsi/tasks/*/init_program.py
+vendor/dream-rsi/tasks/*/LICENSE.SimpleTES
+vendor/dream-rsi/tasks/*/*.txt

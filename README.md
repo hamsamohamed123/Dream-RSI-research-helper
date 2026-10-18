@@ -1,3 +1,5 @@
+> **Runnable research setup:** See [docs/SETUP.md](docs/SETUP.md) for the official Dream-RSI submodule, setup, tests, and Codex smoke run.
+
 <div align="center">
 
 <p>
